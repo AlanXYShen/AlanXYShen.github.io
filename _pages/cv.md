@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+Xiyuan Shen's [CV](http://AlanXYShen.github.io/files/resume_shen/pdf)
 {% include base_path %}
 
 Education
