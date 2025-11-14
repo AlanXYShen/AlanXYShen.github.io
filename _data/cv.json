@@ -66,32 +66,18 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "MouseRing: Always-available Touchpad Interaction with IMU Rings",
+      "publisher": "CHI 2024",
+      "releaseDate": "2024-04-01",
+      "website": "http://alanxyshen.github.io/files/mousering.pdf",
+      "summary": "We find that finger-motion patterns and the inherent structure of joints provide beneficial physical knowledge, which lead us to enhance motion perception accuracy by integrating physical priors into ML models."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "ClenchClick: Hands-Free Target Selection Method Leveraging Teeth-Clench for Augmented Reality",
+      "publisher": "IMWUT 2022",
+      "releaseDate": "2022-09-07",
+      "website": "http://alanxyshen.github.io/files/ClenchClick.pdf",
+      "summary": "We propose to explore teeth-clenching-based target selection in Augmented Reality (AR), as the subtlety in the interaction can be beneficial to applications occupying the user's hand or that are sensitive to social norms."
     }
   ],
   "presentations": [
