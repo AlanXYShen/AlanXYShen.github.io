@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
