@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    padding-right: 0;
   }
 
   .page__inner-wrap {
@@ -61,7 +61,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.3em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {

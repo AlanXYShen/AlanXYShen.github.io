@@ -11,26 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
+{% comment %} Sort publications by rating (high to low), then by date (new to old) {% endcomment %}
+{% assign all_pubs = site.publications %}
+
+{% comment %} Iterate through ratings from 10 to 1 {% endcomment %}
+{% for rating_val in (1..10) reversed %}
+  {% assign rating_index = rating_val %}
+  {% assign pubs_with_rating = "" | split: "," %}
+  {% for pub in all_pubs %}
+    {% assign pub_rating = pub.rating | default: 0 %}
+    {% assign pub_rating_int = pub_rating | plus: 0 %}
+    {% if pub_rating_int == rating_index %}
+      {% assign pubs_with_rating = pubs_with_rating | push: pub %}
+    {% endif %}
+  {% endfor %}
+  {% if pubs_with_rating.size > 0 %}
+    {% assign pubs_sorted_by_date = pubs_with_rating | sort: "date" | reverse %}
+    {% for post in pubs_sorted_by_date %}
       {% include archive-single.html %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+  {% endif %}
+{% endfor %}
