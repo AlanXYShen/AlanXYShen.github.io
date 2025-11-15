@@ -5,7 +5,7 @@ category: selected_works
 permalink: /publication/clenchclick
 excerpt: 'We propose to explore teeth-clenching-based target selection in Augmented Reality (AR), as the subtlety in the interaction can be beneficial to applications occupying the user hand or that are sensitive to social norms. To support the investigation, we implemented an EMG-based teeth-clenching detection system (ClenchClick), where we adopted customized thresholds for different users.'
 show_date: false
-date: 2022-09-07
+date: 2022-11-07
 venue: "IMWUT 2022"
 slidesurl: #
 paperurl: 'http://alanxyshen.github.io/files/ClenchClick.pdf'
