@@ -9,7 +9,7 @@ rating: 5
 venue: 'arXiv preprint'
 authors: "**Minghao Tu**, Chun Yu, Xiyuan Shen, Zhi Zheng, Li Chen, Yuanchun Shi"
 publication_image: images/Textonly.png
-paperurl: 'http://alanxyshen.github.io/files/Textonly.pdf'
+paperurl: '/files/Textonly.pdf'
 slidesurl: #
 ---
 

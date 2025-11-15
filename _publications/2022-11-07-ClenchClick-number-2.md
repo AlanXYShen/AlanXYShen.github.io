@@ -11,7 +11,7 @@ venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous T
 authors: "**Xiyuan Shen**, Yuxuan Yan, Chun Yu, Yuanchun Shi"
 publication_image: images/ClenchClick.jpg
 slidesurl: #
-paperurl: 'http://alanxyshen.github.io/files/ClenchClick.pdf'
+paperurl: '/files/ClenchClick.pdf'
 bibtexurl: #
 ---
 

@@ -69,14 +69,14 @@
       "name": "MouseRing: Always-available Touchpad Interaction with IMU Rings",
       "publisher": "CHI 2024",
       "releaseDate": "2024-04-01",
-      "website": "http://alanxyshen.github.io/files/mousering.pdf",
+      "website": "/files/mousering.pdf",
       "summary": "We find that finger-motion patterns and the inherent structure of joints provide beneficial physical knowledge, which lead us to enhance motion perception accuracy by integrating physical priors into ML models."
     },
     {
       "name": "ClenchClick: Hands-Free Target Selection Method Leveraging Teeth-Clench for Augmented Reality",
       "publisher": "IMWUT 2022",
       "releaseDate": "2022-09-07",
-      "website": "http://alanxyshen.github.io/files/ClenchClick.pdf",
+      "website": "/files/ClenchClick.pdf",
       "summary": "We propose to explore teeth-clenching-based target selection in Augmented Reality (AR), as the subtlety in the interaction can be beneficial to applications occupying the user's hand or that are sensitive to social norms."
     }
   ],

@@ -11,7 +11,7 @@ venue: "CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Comp
 authors: "**Xiyuan Shen**, Chun Yu, Xutong Wang, Chen Liang, Haozhan Chen, Yuanchun Shi"
 publication_image: images/Mousering.jpg
 slidesurl: #
-paperurl: 'http://alanxyshen.github.io/files/mousering.pdf'
+paperurl: '/files/mousering.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 ---
 
