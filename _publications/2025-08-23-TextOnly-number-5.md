@@ -7,7 +7,7 @@ excerpt: 'We propose TextOnly, a unified text-based function portal that uses a 
 date: 2025-08-23
 rating: 5
 venue: 'arXiv preprint'
-authors: "**Minghao Tu**, Chun Yu, Xiyuan Shen, Zhi Zheng, Li Chen, Yuanchun Shi"
+authors: "Minghao Tu, Chun Yu, **Xiyuan Shen**, Zhi Zheng, Li Chen, Yuanchun Shi"
 publication_image: images/Textonly.png
 paperurl: '/files/Textonly.pdf'
 slidesurl: #

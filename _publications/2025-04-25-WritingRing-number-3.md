@@ -7,7 +7,7 @@ excerpt: 'WritingRing is a single-IMU ring system that enables natural, real-tim
 date: 2025-04-25
 rating: 7
 venue: "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, Article No.: 731, Pages 1 - 15"
-authors: "**Zhe He**, Zixuan Wang, Chun Yu, Chengwen Zhang, Xiyuan Shen, Yuanchun Shi"
+authors: "Zhe He, Zixuan Wang, Chun Yu, Chengwen Zhang, **Xiyuan Shen**, Yuanchun Shi"
 publication_image: images/Writering.png
 paperurl: '/files/Writering.pdf'
 ---
