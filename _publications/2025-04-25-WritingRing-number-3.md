@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-04-25-writingring-number-3
 excerpt: 'WritingRing is a single-IMU ring system that enables natural, real-time 2D handwriting input.The system achieves 1.63 mm trajectory accuracy along with 88.7% letter and up to 84.36% word recognition accuracy. The approach is lightweight and can be integrated into existing ring devices, supporting a range of hands-free input applications.'
 date: 2025-04-25
-rating: 7
+rating: 6
 venue: "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, Article No.: 731, Pages 1 - 15"
 authors: "Zhe He, Zixuan Wang, Chun Yu, Chengwen Zhang, **Xiyuan Shen**, Yuanchun Shi"
 publication_image: images/Writering.png
