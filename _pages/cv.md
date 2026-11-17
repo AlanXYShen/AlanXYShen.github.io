@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-📄 [Download my CV (PDF)](/files/resume_shen.pdf)
+📄 [Download my CV (PDF)](/files/Resume_26Nov.pdf)
 
 <br>
 
-<iframe src="/files/resume_shen.pdf" width="100%" height="800px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="/files/resume_shen.pdf">Download PDF</a>.
+<iframe src="/files/Resume_26Nov.pdf" width="100%" height="800px" style="border: none;">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Resume_26Nov.pdf">Download PDF</a>.
 </iframe>
 
 
